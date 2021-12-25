@@ -1,0 +1,60 @@
+{
+  "create_list_of_users": [
+    {
+      "id": 1212182000,
+      "username": "create_list_of_users_1",
+      "firstName": "str08ing",
+      "lastName": "st8r0ing",
+      "email": "stri80ng",
+      "password": "st8ri0ng",
+      "phone": "str08ing",
+      "userStatus": 1000
+    },
+    {
+      "id": 1212484100,
+      "username": "create_list_of_users_2",
+      "firstName": "str038ing",
+      "lastName": "str80ing",
+      "email": "stri830ng",
+      "password": "str8i0ng",
+      "phone": "str08in3g",
+      "userStatus": 1100
+    }
+  ],
+  "create_list_one_user": [
+    {
+      "id": 1212182000,
+      "username": "create_list_one_user_1",
+      "firstName": "str08ing",
+      "lastName": "st8r0ing",
+      "email": "stri80ng",
+      "password": "st8ri0ng",
+      "phone": "str08ing",
+      "userStatus": 1000
+    }
+  ],
+  "create_empty_list": [
+  ],
+  "create_list_of_users_with_error_user": [
+    {
+      "id": 132456798123456789123456789,
+      "username": "create_list_of_users_with_error_user_1",
+      "firstName": "str08ing",
+      "lastName": "st8r0ing",
+      "email": "stri80ng",
+      "password": "st8ri0ng",
+      "phone": "str08ing",
+      "userStatus": 1000
+    },
+    {
+      "id": 1212484100,
+      "username": "create_list_of_users_with_error_user_2",
+      "firstName": "str038ing",
+      "lastName": "str80ing",
+      "email": "stri830ng",
+      "password": "str8i0ng",
+      "phone": "str08in3g",
+      "userStatus": 1100
+    }
+  ]
+}

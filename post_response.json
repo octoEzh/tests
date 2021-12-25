@@ -1,0 +1,97 @@
+{
+  "create_user": {
+    "id": 135456,
+    "username": "morpheus11123456",
+    "firstName": "string",
+    "lastName": "string",
+    "email": "string",
+    "password": "string",
+    "phone": "string",
+    "userStatus": 45
+  },
+  "create_user_null":{
+    "id": null,
+    "username": null,
+    "firstName": null,
+    "lastName": null,
+    "email": null,
+    "password": null,
+    "phone": null,
+    "userStatus": null
+  },
+  "create_user_id_str":{
+    "id": "ftrt",
+    "username": "null",
+    "firstName": "null",
+    "lastName": "null",
+    "email": "null",
+    "password": "null",
+    "phone": "null",
+    "userStatus": "tytyt"
+  },
+    "create_user_id_minus": {
+    "id": -1345878,
+    "username": "morpheus1212121212",
+    "firstName": "string",
+    "lastName": "string",
+    "email": "string",
+    "password": "string",
+    "phone": "string",
+    "userStatus": 45
+  },
+  "create_user_all_info_int": {
+    "id": 1387641357168176,
+    "username": 123,
+    "firstName": 123,
+    "lastName": 123,
+    "email": 123,
+    "password": 123,
+    "phone": 123,
+    "userStatus": 45
+  },
+  "create_user_more_then_limit_id": {
+    "id": 9223372036854775809,
+    "username": "morpheus1231233",
+    "firstName": "string",
+    "lastName": "string",
+    "email": "string",
+    "password": "string",
+    "phone": "string",
+    "userStatus": 45
+  },
+  "create_user_more_then_limit_userStatus": {
+    "id": 16354687,
+    "username": "morpheus1dfg233",
+    "firstName": "string",
+    "lastName": "string",
+    "email": "string",
+    "password": "string",
+    "phone": "string",
+    "userStatus": 2147483649
+  },
+  "create_user_boolean_id": {
+    "id": true,
+    "username": "morpheus1122sg344",
+    "firstName": "string",
+    "lastName": "string",
+    "email": "string",
+    "password": "string",
+    "phone": "string",
+    "userStatus": 45
+  },
+  "create_user_boolean_userStatus": {
+    "id": 646874,
+    "username": "morpheus112sdgsb44",
+    "firstName": "string",
+    "lastName": "string",
+    "email": "string",
+    "password": "string",
+    "phone": "string",
+    "userStatus": true
+  },
+  "create_user_empty_username": {
+  },
+  "create_user_only_username": {
+    "username": "morpheus112sdgsb44"
+  }
+}

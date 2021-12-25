@@ -1,0 +1,53 @@
+{
+  "get_user": {
+    "id": 1234345346523,
+    "username": "morpheus11599923421",
+    "firstName": "string",
+    "lastName": "string",
+    "email": "string",
+    "password": "string",
+    "phone": "string",
+    "userStatus": 45
+  },
+
+  "get_user_with_int_username": {
+    "id": 123455,
+    "username": 2345678765432,
+    "firstName": "string",
+    "lastName": "string",
+    "email": "string",
+    "password": "string",
+    "phone": "string",
+    "userStatus": 45
+  },
+  "get_user_with_null_username": {
+    "id": 123455,
+    "username": null,
+    "firstName": "string",
+    "lastName": "string",
+    "email": "string",
+    "password": "string",
+    "phone": "string",
+    "userStatus": 45
+  },
+  "get_user_with_empty_username": {
+    "id": 123455,
+    "username": "",
+    "firstName": "string",
+    "lastName": "string",
+    "email": "string",
+    "password": "string",
+    "phone": "string",
+    "userStatus": 45
+  },
+  "get_user_with_boolean_username": {
+    "id": 123455,
+    "username": true,
+    "firstName": "string",
+    "lastName": "string",
+    "email": "string",
+    "password": "string",
+    "phone": "string",
+    "userStatus": 45
+  }
+}
